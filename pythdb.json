@@ -1,0 +1,10 @@
+{
+    "num": 1,
+    "updates": [
+        {
+            "title": "Update command",
+            "description": "We have added an updates command. With this command, you can get news of the newly added stuff on bot.\n\nWill be added in next update:\nAnti adversite,\nLevel system and more will came!",
+            "number": 1
+        }
+    ]
+}
