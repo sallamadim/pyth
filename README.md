@@ -1,1 +1,1 @@
-use it for free or just change it.
+eski discord botum pyth'ın altyapısı.
